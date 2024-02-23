@@ -1,7 +1,7 @@
 CMakeFiles/SSE.dir/src/heisenberg.cpp.o: \
- /home/juan/Documents/Projects/computational_many_body/SSE/src/heisenberg.cpp \
+ /home/juan/Documents/Projects/Heisenberg_SSE/SALB/src/heisenberg.cpp \
  /usr/include/stdc-predef.h \
- /home/juan/Documents/Projects/computational_many_body/SSE/headers/heisenberg.h \
+ /home/juan/Documents/Projects/Heisenberg_SSE/SALB/headers/heisenberg.h \
  /usr/include/c++/11/random /usr/include/c++/11/cmath \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -180,9 +180,9 @@ CMakeFiles/SSE.dir/src/heisenberg.cpp.o: \
  /usr/include/c++/11/bits/node_handle.h \
  /usr/include/c++/11/bits/unordered_map.h \
  /usr/include/c++/11/bits/erase_if.h \
- /home/juan/Documents/Projects/computational_many_body/SSE/headers/lattice.h \
- /home/juan/Documents/Projects/computational_many_body/SSE/headers/configurations.h \
- /home/juan/Documents/Projects/computational_many_body/SSE/headers/input_params.h \
+ /home/juan/Documents/Projects/Heisenberg_SSE/SALB/headers/lattice.h \
+ /home/juan/Documents/Projects/Heisenberg_SSE/SALB/headers/configurations.h \
+ /home/juan/Documents/Projects/Heisenberg_SSE/SALB/headers/input_params.h \
  /usr/include/c++/11/iostream /usr/include/c++/11/ostream \
  /usr/include/c++/11/ios /usr/include/c++/11/exception \
  /usr/include/c++/11/bits/exception_ptr.h \
@@ -249,4 +249,4 @@ CMakeFiles/SSE.dir/src/heisenberg.cpp.o: \
  /usr/include/hdf5/serial/H5FDros3.h /usr/include/hdf5/serial/H5FDsec2.h \
  /usr/include/hdf5/serial/H5FDsplitter.h \
  /usr/include/hdf5/serial/H5FDstdio.h \
- /home/juan/Documents/Projects/computational_many_body/SSE/headers/observable.h
+ /home/juan/Documents/Projects/Heisenberg_SSE/SALB/headers/observable.h

@@ -1,7 +1,7 @@
 CMakeFiles/SSE.dir/src/configurations.cpp.o: \
- /home/juan/Documents/Projects/computational_many_body/SSE/src/configurations.cpp \
+ /home/juan/Documents/Projects/Heisenberg_SSE/SALB/src/configurations.cpp \
  /usr/include/stdc-predef.h \
- /home/juan/Documents/Projects/computational_many_body/SSE/headers/configurations.h \
+ /home/juan/Documents/Projects/Heisenberg_SSE/SALB/headers/configurations.h \
  /usr/include/c++/11/random /usr/include/c++/11/cmath \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \

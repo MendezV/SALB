@@ -1,7 +1,7 @@
 CMakeFiles/SSE.dir/src/lattice.cpp.o: \
- /home/juan/Documents/Projects/computational_many_body/SSE/src/lattice.cpp \
+ /home/juan/Documents/Projects/Heisenberg_SSE/SALB/src/lattice.cpp \
  /usr/include/stdc-predef.h \
- /home/juan/Documents/Projects/computational_many_body/SSE/headers/lattice.h \
+ /home/juan/Documents/Projects/Heisenberg_SSE/SALB/headers/lattice.h \
  /usr/include/c++/11/string \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \

@@ -1,4 +1,4 @@
-# Install script for directory: /home/juan/Documents/Projects/computational_many_body/SSE
+# Install script for directory: /home/juan/Documents/Projects/Heisenberg_SSE/SALB
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/juan/Documents/Projects/computational_many_body/SSE/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/juan/Documents/Projects/Heisenberg_SSE/SALB/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

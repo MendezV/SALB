@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/g++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/juan/Documents/Projects/computational_many_body/SSE/headers -I/usr/include/hdf5/serial
+CXX_INCLUDES = -I/home/juan/Documents/Projects/Heisenberg_SSE/SALB/headers -I/usr/include/hdf5/serial
 
 CXX_FLAGS = -g
 

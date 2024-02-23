@@ -1,32 +1,32 @@
 [
 {
-  "directory": "/home/juan/Documents/Projects/computational_many_body/SSE/build",
-  "command": "/usr/bin/g++  -I/home/juan/Documents/Projects/computational_many_body/SSE/headers -I/usr/include/hdf5/serial -g -o CMakeFiles/SSE.dir/src/SSE.cpp.o -c /home/juan/Documents/Projects/computational_many_body/SSE/src/SSE.cpp",
-  "file": "/home/juan/Documents/Projects/computational_many_body/SSE/src/SSE.cpp"
+  "directory": "/home/juan/Documents/Projects/Heisenberg_SSE/SALB/build",
+  "command": "/usr/bin/g++  -I/home/juan/Documents/Projects/Heisenberg_SSE/SALB/headers -I/usr/include/hdf5/serial -g -o CMakeFiles/SSE.dir/src/SSE.cpp.o -c /home/juan/Documents/Projects/Heisenberg_SSE/SALB/src/SSE.cpp",
+  "file": "/home/juan/Documents/Projects/Heisenberg_SSE/SALB/src/SSE.cpp"
 },
 {
-  "directory": "/home/juan/Documents/Projects/computational_many_body/SSE/build",
-  "command": "/usr/bin/g++  -I/home/juan/Documents/Projects/computational_many_body/SSE/headers -I/usr/include/hdf5/serial -g -o CMakeFiles/SSE.dir/src/configurations.cpp.o -c /home/juan/Documents/Projects/computational_many_body/SSE/src/configurations.cpp",
-  "file": "/home/juan/Documents/Projects/computational_many_body/SSE/src/configurations.cpp"
+  "directory": "/home/juan/Documents/Projects/Heisenberg_SSE/SALB/build",
+  "command": "/usr/bin/g++  -I/home/juan/Documents/Projects/Heisenberg_SSE/SALB/headers -I/usr/include/hdf5/serial -g -o CMakeFiles/SSE.dir/src/configurations.cpp.o -c /home/juan/Documents/Projects/Heisenberg_SSE/SALB/src/configurations.cpp",
+  "file": "/home/juan/Documents/Projects/Heisenberg_SSE/SALB/src/configurations.cpp"
 },
 {
-  "directory": "/home/juan/Documents/Projects/computational_many_body/SSE/build",
-  "command": "/usr/bin/g++  -I/home/juan/Documents/Projects/computational_many_body/SSE/headers -I/usr/include/hdf5/serial -g -o CMakeFiles/SSE.dir/src/heisenberg.cpp.o -c /home/juan/Documents/Projects/computational_many_body/SSE/src/heisenberg.cpp",
-  "file": "/home/juan/Documents/Projects/computational_many_body/SSE/src/heisenberg.cpp"
+  "directory": "/home/juan/Documents/Projects/Heisenberg_SSE/SALB/build",
+  "command": "/usr/bin/g++  -I/home/juan/Documents/Projects/Heisenberg_SSE/SALB/headers -I/usr/include/hdf5/serial -g -o CMakeFiles/SSE.dir/src/heisenberg.cpp.o -c /home/juan/Documents/Projects/Heisenberg_SSE/SALB/src/heisenberg.cpp",
+  "file": "/home/juan/Documents/Projects/Heisenberg_SSE/SALB/src/heisenberg.cpp"
 },
 {
-  "directory": "/home/juan/Documents/Projects/computational_many_body/SSE/build",
-  "command": "/usr/bin/g++  -I/home/juan/Documents/Projects/computational_many_body/SSE/headers -I/usr/include/hdf5/serial -g -o CMakeFiles/SSE.dir/src/input_params.cpp.o -c /home/juan/Documents/Projects/computational_many_body/SSE/src/input_params.cpp",
-  "file": "/home/juan/Documents/Projects/computational_many_body/SSE/src/input_params.cpp"
+  "directory": "/home/juan/Documents/Projects/Heisenberg_SSE/SALB/build",
+  "command": "/usr/bin/g++  -I/home/juan/Documents/Projects/Heisenberg_SSE/SALB/headers -I/usr/include/hdf5/serial -g -o CMakeFiles/SSE.dir/src/input_params.cpp.o -c /home/juan/Documents/Projects/Heisenberg_SSE/SALB/src/input_params.cpp",
+  "file": "/home/juan/Documents/Projects/Heisenberg_SSE/SALB/src/input_params.cpp"
 },
 {
-  "directory": "/home/juan/Documents/Projects/computational_many_body/SSE/build",
-  "command": "/usr/bin/g++  -I/home/juan/Documents/Projects/computational_many_body/SSE/headers -I/usr/include/hdf5/serial -g -o CMakeFiles/SSE.dir/src/lattice.cpp.o -c /home/juan/Documents/Projects/computational_many_body/SSE/src/lattice.cpp",
-  "file": "/home/juan/Documents/Projects/computational_many_body/SSE/src/lattice.cpp"
+  "directory": "/home/juan/Documents/Projects/Heisenberg_SSE/SALB/build",
+  "command": "/usr/bin/g++  -I/home/juan/Documents/Projects/Heisenberg_SSE/SALB/headers -I/usr/include/hdf5/serial -g -o CMakeFiles/SSE.dir/src/lattice.cpp.o -c /home/juan/Documents/Projects/Heisenberg_SSE/SALB/src/lattice.cpp",
+  "file": "/home/juan/Documents/Projects/Heisenberg_SSE/SALB/src/lattice.cpp"
 },
 {
-  "directory": "/home/juan/Documents/Projects/computational_many_body/SSE/build",
-  "command": "/usr/bin/g++  -I/home/juan/Documents/Projects/computational_many_body/SSE/headers -I/usr/include/hdf5/serial -g -o CMakeFiles/SSE.dir/src/observable.cpp.o -c /home/juan/Documents/Projects/computational_many_body/SSE/src/observable.cpp",
-  "file": "/home/juan/Documents/Projects/computational_many_body/SSE/src/observable.cpp"
+  "directory": "/home/juan/Documents/Projects/Heisenberg_SSE/SALB/build",
+  "command": "/usr/bin/g++  -I/home/juan/Documents/Projects/Heisenberg_SSE/SALB/headers -I/usr/include/hdf5/serial -g -o CMakeFiles/SSE.dir/src/observable.cpp.o -c /home/juan/Documents/Projects/Heisenberg_SSE/SALB/src/observable.cpp",
+  "file": "/home/juan/Documents/Projects/Heisenberg_SSE/SALB/src/observable.cpp"
 }
 ]

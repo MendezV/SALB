@@ -1,7 +1,7 @@
 CMakeFiles/SSE.dir/src/input_params.cpp.o: \
- /home/juan/Documents/Projects/computational_many_body/SSE/src/input_params.cpp \
+ /home/juan/Documents/Projects/Heisenberg_SSE/SALB/src/input_params.cpp \
  /usr/include/stdc-predef.h \
- /home/juan/Documents/Projects/computational_many_body/SSE/headers/input_params.h \
+ /home/juan/Documents/Projects/Heisenberg_SSE/SALB/headers/input_params.h \
  /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \

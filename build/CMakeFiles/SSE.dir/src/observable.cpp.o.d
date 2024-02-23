@@ -1,7 +1,7 @@
 CMakeFiles/SSE.dir/src/observable.cpp.o: \
- /home/juan/Documents/Projects/computational_many_body/SSE/src/observable.cpp \
+ /home/juan/Documents/Projects/Heisenberg_SSE/SALB/src/observable.cpp \
  /usr/include/stdc-predef.h \
- /home/juan/Documents/Projects/computational_many_body/SSE/headers/observable.h \
+ /home/juan/Documents/Projects/Heisenberg_SSE/SALB/headers/observable.h \
  /usr/include/c++/11/string \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -130,7 +130,7 @@ CMakeFiles/SSE.dir/src/observable.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
  /usr/include/c++/11/bits/charconv.h \
  /usr/include/c++/11/bits/basic_string.tcc \
- /home/juan/Documents/Projects/computational_many_body/SSE/headers/input_params.h \
+ /home/juan/Documents/Projects/Heisenberg_SSE/SALB/headers/input_params.h \
  /usr/include/c++/11/iostream /usr/include/c++/11/ostream \
  /usr/include/c++/11/ios /usr/include/c++/11/exception \
  /usr/include/c++/11/bits/exception_ptr.h \

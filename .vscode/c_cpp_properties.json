@@ -1,0 +1,53 @@
+{
+    "configurations": [
+        {
+            "name": "linux-gcc-x64",
+            "includePath": [
+                "/home/juan/Documents/Projects/Heisenberg_SSE/SALB/**",
+                "/home/juan/Documents/Projects/Heisenberg_SSE/SALB/headers"
+            ],
+            "compilerPath": "/usr/bin/g++",
+            "intelliSenseMode": "linux-gcc-x64",
+            "compilerArgs": [
+                ""
+            ],
+            "configurationProvider": "ms-vscode.cmake-tools",
+            "mergeConfigurations": false,
+            "browse": {
+                "path": [
+                    "/home/juan/Documents/Projects/Heisenberg_SSE/SALB/**",
+                    "/home/juan/Documents/Projects/Heisenberg_SSE/SALB/headers",
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "cStandard": "c11",
+            "cppStandard": "c++11"
+        }//,
+        // {
+        //     "name": "redhat-gcc-x64",
+        //     "includePath": [
+        //         "/home/felipe/Documents/Classes/computational_many_body/computational_many_body/SSE/SSE/**",
+        //         "/home/felipe/Documents/Classes/computational_many_body/computational_many_body/SSE/headers"
+        //     ],
+        //     "compilerPath": "/usr/bin/g++",
+        //     "intelliSenseMode": "linux-gcc-x64",
+        //     "compilerArgs": [
+        //         ""
+        //     ],
+        //     "configurationProvider": "ms-vscode.cmake-tools",
+        //     "mergeConfigurations": false,
+        //     "browse": {
+        //         "path": [
+        //             "/home/felipe/Documents/Classes/computational_many_body/computational_many_body/SSE/**",
+        //             "/home/felipe/Documents/Classes/computational_many_body/computational_many_body/SSE/headers",
+        //             "${workspaceFolder}"
+        //         ],
+        //         "limitSymbolsToIncludedHeaders": true
+        //     },
+        //     "cStandard": "c11",
+        //     "cppStandard": "c++11"
+        // }
+    ],
+    "version": 4
+}
