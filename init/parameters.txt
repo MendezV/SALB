@@ -1,0 +1,16 @@
+/*LATTICE PARAMETERS*/
+lat_type=cubic
+Lx=16
+Ly=16
+Lz=1
+
+/*SIMULATION PARAMETERS*/
+n_therm_sweeps=1000
+n_sweeps=10
+n_bins=1000
+max_order=20
+beta=16.0
+
+/*MODEL PARAMETERS*/
+model=Heisenberg
+J=1.0
