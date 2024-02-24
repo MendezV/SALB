@@ -1,32 +1,32 @@
 [
 {
-  "directory": "/home/juan/Documents/Projects/Heisenberg_SSE/SALB/build",
-  "command": "/usr/bin/g++  -I/home/juan/Documents/Projects/Heisenberg_SSE/SALB/headers -I/usr/include/hdf5/serial -g -o CMakeFiles/SSE.dir/src/SSE.cpp.o -c /home/juan/Documents/Projects/Heisenberg_SSE/SALB/src/SSE.cpp",
-  "file": "/home/juan/Documents/Projects/Heisenberg_SSE/SALB/src/SSE.cpp"
+  "directory": "/home/jfm343/Programs/SALB/build",
+  "command": "/usr/bin/g++  -I/home/jfm343/Programs/SALB/headers -I/usr/include/hdf5/serial -O3 -DNDEBUG -o CMakeFiles/SSE.dir/src/SSE.cpp.o -c /home/jfm343/Programs/SALB/src/SSE.cpp",
+  "file": "/home/jfm343/Programs/SALB/src/SSE.cpp"
 },
 {
-  "directory": "/home/juan/Documents/Projects/Heisenberg_SSE/SALB/build",
-  "command": "/usr/bin/g++  -I/home/juan/Documents/Projects/Heisenberg_SSE/SALB/headers -I/usr/include/hdf5/serial -g -o CMakeFiles/SSE.dir/src/configurations.cpp.o -c /home/juan/Documents/Projects/Heisenberg_SSE/SALB/src/configurations.cpp",
-  "file": "/home/juan/Documents/Projects/Heisenberg_SSE/SALB/src/configurations.cpp"
+  "directory": "/home/jfm343/Programs/SALB/build",
+  "command": "/usr/bin/g++  -I/home/jfm343/Programs/SALB/headers -I/usr/include/hdf5/serial -O3 -DNDEBUG -o CMakeFiles/SSE.dir/src/configurations.cpp.o -c /home/jfm343/Programs/SALB/src/configurations.cpp",
+  "file": "/home/jfm343/Programs/SALB/src/configurations.cpp"
 },
 {
-  "directory": "/home/juan/Documents/Projects/Heisenberg_SSE/SALB/build",
-  "command": "/usr/bin/g++  -I/home/juan/Documents/Projects/Heisenberg_SSE/SALB/headers -I/usr/include/hdf5/serial -g -o CMakeFiles/SSE.dir/src/heisenberg.cpp.o -c /home/juan/Documents/Projects/Heisenberg_SSE/SALB/src/heisenberg.cpp",
-  "file": "/home/juan/Documents/Projects/Heisenberg_SSE/SALB/src/heisenberg.cpp"
+  "directory": "/home/jfm343/Programs/SALB/build",
+  "command": "/usr/bin/g++  -I/home/jfm343/Programs/SALB/headers -I/usr/include/hdf5/serial -O3 -DNDEBUG -o CMakeFiles/SSE.dir/src/heisenberg.cpp.o -c /home/jfm343/Programs/SALB/src/heisenberg.cpp",
+  "file": "/home/jfm343/Programs/SALB/src/heisenberg.cpp"
 },
 {
-  "directory": "/home/juan/Documents/Projects/Heisenberg_SSE/SALB/build",
-  "command": "/usr/bin/g++  -I/home/juan/Documents/Projects/Heisenberg_SSE/SALB/headers -I/usr/include/hdf5/serial -g -o CMakeFiles/SSE.dir/src/input_params.cpp.o -c /home/juan/Documents/Projects/Heisenberg_SSE/SALB/src/input_params.cpp",
-  "file": "/home/juan/Documents/Projects/Heisenberg_SSE/SALB/src/input_params.cpp"
+  "directory": "/home/jfm343/Programs/SALB/build",
+  "command": "/usr/bin/g++  -I/home/jfm343/Programs/SALB/headers -I/usr/include/hdf5/serial -O3 -DNDEBUG -o CMakeFiles/SSE.dir/src/input_params.cpp.o -c /home/jfm343/Programs/SALB/src/input_params.cpp",
+  "file": "/home/jfm343/Programs/SALB/src/input_params.cpp"
 },
 {
-  "directory": "/home/juan/Documents/Projects/Heisenberg_SSE/SALB/build",
-  "command": "/usr/bin/g++  -I/home/juan/Documents/Projects/Heisenberg_SSE/SALB/headers -I/usr/include/hdf5/serial -g -o CMakeFiles/SSE.dir/src/lattice.cpp.o -c /home/juan/Documents/Projects/Heisenberg_SSE/SALB/src/lattice.cpp",
-  "file": "/home/juan/Documents/Projects/Heisenberg_SSE/SALB/src/lattice.cpp"
+  "directory": "/home/jfm343/Programs/SALB/build",
+  "command": "/usr/bin/g++  -I/home/jfm343/Programs/SALB/headers -I/usr/include/hdf5/serial -O3 -DNDEBUG -o CMakeFiles/SSE.dir/src/lattice.cpp.o -c /home/jfm343/Programs/SALB/src/lattice.cpp",
+  "file": "/home/jfm343/Programs/SALB/src/lattice.cpp"
 },
 {
-  "directory": "/home/juan/Documents/Projects/Heisenberg_SSE/SALB/build",
-  "command": "/usr/bin/g++  -I/home/juan/Documents/Projects/Heisenberg_SSE/SALB/headers -I/usr/include/hdf5/serial -g -o CMakeFiles/SSE.dir/src/observable.cpp.o -c /home/juan/Documents/Projects/Heisenberg_SSE/SALB/src/observable.cpp",
-  "file": "/home/juan/Documents/Projects/Heisenberg_SSE/SALB/src/observable.cpp"
+  "directory": "/home/jfm343/Programs/SALB/build",
+  "command": "/usr/bin/g++  -I/home/jfm343/Programs/SALB/headers -I/usr/include/hdf5/serial -O3 -DNDEBUG -o CMakeFiles/SSE.dir/src/observable.cpp.o -c /home/jfm343/Programs/SALB/src/observable.cpp",
+  "file": "/home/jfm343/Programs/SALB/src/observable.cpp"
 }
 ]

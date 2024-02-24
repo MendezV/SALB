@@ -3,8 +3,8 @@
         {
             "name": "linux-gcc-x64",
             "includePath": [
-                "/home/juan/Documents/Projects/Heisenberg_SSE/SALB/**",
-                "/home/juan/Documents/Projects/Heisenberg_SSE/SALB/headers"
+                "${SALB_DIR}/**",
+                "${SALB_DIR}/headers"
             ],
             "compilerPath": "/usr/bin/g++",
             "intelliSenseMode": "linux-gcc-x64",
@@ -15,8 +15,8 @@
             "mergeConfigurations": false,
             "browse": {
                 "path": [
-                    "/home/juan/Documents/Projects/Heisenberg_SSE/SALB/**",
-                    "/home/juan/Documents/Projects/Heisenberg_SSE/SALB/headers",
+                    "${SALB_DIR}/**",
+                    "${SALB_DIR}/headers",
                     "${workspaceFolder}"
                 ],
                 "limitSymbolsToIncludedHeaders": true

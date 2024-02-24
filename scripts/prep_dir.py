@@ -6,7 +6,7 @@ import shutil
 SALB_DIR = os.environ.get("SALB_DIR","home/user")
 
 # Constants
-TEMP_DIR = "/home/felipe/Documents/Projects/wigner-mott/tmpdir"  # Replace with your temp directory path
+TEMP_DIR = "/home/jfm343/Documents/wigner-mott/tmpdir"  # Replace with your temp directory path
 TEMPLATE_FILE = os.path.join(SALB_DIR,"init/parameters.txt")  # Replace with your template file path
 EXEC_FILE = os.path.join(SALB_DIR,"build/SSE")  # Replace with your template file path
 
@@ -64,7 +64,8 @@ def prep_sim_dir(sim):
 
 jobname = "heisenberg"
 sims = []
-betavals = [1.0,2.0,3.0]
+import numpy as np
+betavals = 1/np.linspace(0.25,3.0,15)
 Lvals = [8,12,16]
 
 for beta in betavals:

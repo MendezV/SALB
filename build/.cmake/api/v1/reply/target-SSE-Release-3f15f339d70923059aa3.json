@@ -56,14 +56,14 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g"
+					"fragment" : "-O3 -DNDEBUG"
 				}
 			],
 			"includes" : 
 			[
 				{
 					"backtrace" : 3,
-					"path" : "/home/juan/Documents/Projects/Heisenberg_SSE/SALB/headers"
+					"path" : "/home/jfm343/Programs/SALB/headers"
 				},
 				{
 					"backtrace" : 4,
@@ -88,7 +88,7 @@
 		"commandFragments" : 
 		[
 			{
-				"fragment" : "-g",
+				"fragment" : "-O3 -DNDEBUG",
 				"role" : "flags"
 			},
 			{

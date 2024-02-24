@@ -142,7 +142,7 @@ void Observable::record_data_scal_h5(const int& bin){
     memspace_id = H5Screate_simple(rank, count, NULL);
 
     double val = obser[bin];
-    printf(" %f \n", val);
+    // printf(" %f \n", val);
     // Write the data to the hyperslab
     status = H5Dwrite(dataset_id, H5T_NATIVE_DOUBLE, memspace_id, dataspace_id, H5P_DEFAULT, &val);
     if (status < 0) {
